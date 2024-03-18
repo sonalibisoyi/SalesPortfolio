@@ -1,10 +1,10 @@
-# Python_Festival_Sales_Analysis
+# Python_Festival_Diwali_Analysis
 
 Analyze Diwali sales data to improve customer experience and sales
 
 Married women age group 26-35 yrs from UP,  Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category
 
-# What I learnt from this Festival Sales Analysis
+# What I learnt from this Diwali Sales Analysis
 
 Performed data cleaning and manipulation
 
@@ -16,22 +16,22 @@ Improved sales by identifying most selling product categories and products, whic
 Analysis on Diwali Sales
 this repository contains project of Diwali sales analysis in indian region
 
-OBJECTIVE
+# OBJECTIVE
 -to find out which region has maximum sales in that region which gender is responsible for most sales
 
 to find which region has lowest sales and gender responsible via age group
 to find the highest seling and least selling products and to track sales via numbers of order placed
 to find out which sector is responsible for amximum sale
-LIBRARIES USED-
+# LIBRARIES USED-
 numpy , pandas - for data cleaning
 
 plotly , matplotlib,seaborn for visualization purpose
 
-LANGUAGE USED
+# LANGUAGE USED
 
 Python
 
-CONCLUSION
+# CONCLUSION
 the above objectives have been satisfed. we are able to find out that food items are contributing to most sales while office items are contributing to least sales.
 the most ordered product has been in the category clothing & appeal, while the least ordered are hand and power tools category.
 the control region sis contributing to highest sales and in central region womens are contributing to most of the sales
