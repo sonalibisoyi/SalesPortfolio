@@ -22,13 +22,12 @@ this repository contains project of Diwali sales analysis in indian region
 to find which region has lowest sales and gender responsible via age group
 to find the highest seling and least selling products and to track sales via numbers of order placed
 to find out which sector is responsible for amximum sale
-# Libraries Used-
-numpy , pandas - for data cleaning
 
+# Libraries Used
+numpy , pandas - for data cleaning
 plotly , matplotlib,seaborn for visualization purpose
 
 # Language Used
-
 Python
 
 # Conclusion
