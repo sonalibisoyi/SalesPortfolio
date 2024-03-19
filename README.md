@@ -16,22 +16,22 @@ Improved sales by identifying most selling product categories and products, whic
 Analysis on Diwali Sales
 this repository contains project of Diwali sales analysis in indian region
 
-# OBJECTIVE
+# Objective
 -to find out which region has maximum sales in that region which gender is responsible for most sales
 
 to find which region has lowest sales and gender responsible via age group
 to find the highest seling and least selling products and to track sales via numbers of order placed
 to find out which sector is responsible for amximum sale
-# LIBRARIES USED-
+# Libraries Used-
 numpy , pandas - for data cleaning
 
 plotly , matplotlib,seaborn for visualization purpose
 
-# LANGUAGE USED
+# Language Used
 
 Python
 
-# CONCLUSION
+# Conclusion
 the above objectives have been satisfed. we are able to find out that food items are contributing to most sales while office items are contributing to least sales.
 the most ordered product has been in the category clothing & appeal, while the least ordered are hand and power tools category.
 the control region sis contributing to highest sales and in central region womens are contributing to most of the sales
